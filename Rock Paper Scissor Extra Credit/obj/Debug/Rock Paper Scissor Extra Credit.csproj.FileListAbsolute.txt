@@ -1,0 +1,10 @@
+C:\Users\wilso\OneDrive\Desktop\C#2\Rock Paper Scissor Extra Credit\bin\Debug\Rock Paper Scissor Extra Credit.exe.config
+C:\Users\wilso\OneDrive\Desktop\C#2\Rock Paper Scissor Extra Credit\bin\Debug\Rock Paper Scissor Extra Credit.exe
+C:\Users\wilso\OneDrive\Desktop\C#2\Rock Paper Scissor Extra Credit\bin\Debug\Rock Paper Scissor Extra Credit.pdb
+C:\Users\wilso\OneDrive\Desktop\C#2\Rock Paper Scissor Extra Credit\obj\Debug\Rock Paper Scissor Extra Credit.csproj.AssemblyReference.cache
+C:\Users\wilso\OneDrive\Desktop\C#2\Rock Paper Scissor Extra Credit\obj\Debug\Rock_Paper_Scissor_Extra_Credit.Form1.resources
+C:\Users\wilso\OneDrive\Desktop\C#2\Rock Paper Scissor Extra Credit\obj\Debug\Rock_Paper_Scissor_Extra_Credit.Properties.Resources.resources
+C:\Users\wilso\OneDrive\Desktop\C#2\Rock Paper Scissor Extra Credit\obj\Debug\Rock Paper Scissor Extra Credit.csproj.GenerateResource.cache
+C:\Users\wilso\OneDrive\Desktop\C#2\Rock Paper Scissor Extra Credit\obj\Debug\Rock Paper Scissor Extra Credit.csproj.CoreCompileInputs.cache
+C:\Users\wilso\OneDrive\Desktop\C#2\Rock Paper Scissor Extra Credit\obj\Debug\Rock Paper Scissor Extra Credit.exe
+C:\Users\wilso\OneDrive\Desktop\C#2\Rock Paper Scissor Extra Credit\obj\Debug\Rock Paper Scissor Extra Credit.pdb
